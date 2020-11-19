@@ -1,4 +1,6 @@
 # Avenives.github.io
-This is just a simple readme file
+Welcome to my new site.
 
-link do strony tutaj: https://avenives.github.io/
+Currently there is not much suff there, but don't worry,
+New stuff won't be added later.
+
